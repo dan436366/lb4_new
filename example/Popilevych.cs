@@ -42,6 +42,6 @@ namespace lab4
             Console.WriteLine();
         }
 
-//popilevich
+//popilevi
     }
 }
